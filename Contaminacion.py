@@ -81,4 +81,4 @@ async def ayuda(ctx):
 
 
 
-bot.run("MTE2NDcxNzQ0MTAyMTEzMjg3Mg.GR_8vM.TvdoqvKknd5hwPufe2rYrHORv9GB-5pOgLoZHU")
+bot.run("token")
